@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Light_Mobile
- * @version 1.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: Light Mobile
 Plugin URI: 
 Description: Automatically adds a mobile verion of your site
 Author: Zen Mabelin
-Version: 1.0
+Version: 1.0.1
 Author URI: http://codertalks.com/
 */
 require_once('LightMobile.class.php');
