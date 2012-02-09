@@ -11,7 +11,7 @@ Please Visit. http://codertalks.com/adding-a-mobile-version-to-your-site/
 
 == Description ==
 
-Automatically ads a mobile verion of your site.
+Automatically adds a mobile verion of your site.
 It uses jquerymobile to convert your site into an app style site.
 Customizable using familiar filenames in theme folder.
 
